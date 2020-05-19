@@ -1,10 +1,10 @@
-# deep_learning_nanodegree
+# Deep Learning Nano Degree
 This repository contains my project submissions in order to complete and graduate Deep Learning nano degree from UDACITY.
 
 Feel free to explore.
 
 <p align="center">
-  <img width="700" height="500" src="https://github.com/mihir135/deep_learning_nanodegree/blob/master/images/CVND.PNG">
+  <img width="700" height="500" src="https://github.com/mihir135/deep_learning_nanodegree/blob/master/images/DLND.PNG">
 </p>
 
 <hr>
